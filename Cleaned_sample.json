@@ -1,0 +1,35 @@
+[
+    {
+        "name": "john doe",
+        "email": "john@example.com",
+        "phone_number": "(123) 456-7890",
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "state": "NY",
+            "zip_code": "10001"
+        }
+    },
+    {
+        "name": "jane smith",
+        "email": "jane.smith@email.com",
+        "phone_number": "(123) 456-7890",
+        "address": {
+            "street": "456 Elm St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip_code": "90001"
+        }
+    },
+    {
+        "name": "Mary Johnson",
+        "email": "mary.johnson@domain.com",
+        "phone_number": "(234) 567-8901",
+        "address": {
+            "street": "789 Oak St",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60601"
+        }
+    }
+]
